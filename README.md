@@ -1,7 +1,7 @@
 ### Hi there 👋
+![header](https://capsule-render.vercel.app/api?tybe=waving&color=random&section=header&height=130&text=Hello+GEUN&animation=blink&fontSize=80&fontAlignY=70&fontColor=random&)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihyeongeun&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihyeongeun&layout=compact&theme=tokyonight)
-![header](https://capsule-render.vercel.app/api?tybe=waving&color=timeAuto&section=header&height=130&text=Hello+GEUN&animation=blink&fontSize=80&fontAlignY=70&fontColor=f2f2f2&)
 <!--
 **jihyeongeun/jihyeongeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
