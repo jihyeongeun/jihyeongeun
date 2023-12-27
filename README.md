@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&###lines=nice+to+meet+you+!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=nice+to+meet+you+!!)](https://git.io/typing-svg)
 ![header](https://capsule-render.vercel.app/api?tybe=waving&color=random&section=header&height=130&text=Hello+GEUN&animation=blink&fontSize=80&fontAlignY=70&fontColor=random&)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihyeongeun&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihyeongeun&layout=compact&theme=tokyonight)
