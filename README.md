@@ -39,3 +39,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<details>
+	<summary>토글 접기/펼치기</summary>
+  	<div markdown="1">
+      안녕
+  	</div>
+</details>
