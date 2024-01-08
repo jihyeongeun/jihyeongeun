@@ -41,8 +41,13 @@ Here are some ideas to get you started:
 -->
 
 <details>
-	<summary>토글 접기/펼치기</summary>
+	<summary>CRUD Case</summary>
   	<div markdown="1">
-      안녕
+             <details>
+	       <summary>Create</summary>
+  	       <div markdown="1">
+                    <img src = https://www.notion.so/README-90456e44faab4013bf4520930090a7ab?pvs=4#36b54769ccf142e0937672f258208399>
+  	       </div>
+           </details>
   	</div>
 </details>
