@@ -21,10 +21,12 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=jihyeongeun&bg_color=180,9cbff7,00000000&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihyeongeun&layout=compact&theme=tokyonight)
+         />
            /> </div> 
     </div>
-    
+    ![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=jihyeongeun&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihyeongeun&layout=compact&theme=tokyonight)
 <!--
 **jihyeongeun/jihyeongeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
