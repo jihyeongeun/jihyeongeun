@@ -24,7 +24,7 @@
          />
            /> </div> 
     </div>
-    ![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=jihyeongeun&show_icons=true&theme=tokyonight)
+![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=jihyeongeun&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihyeongeun&layout=compact&theme=tokyonight)
 <!--
