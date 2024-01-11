@@ -21,7 +21,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=jihyeongeun&bg_color=180,9cbff7,00000000&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihyeongeun&layout=compact&bg_color=180,9cbff7,00000000&title_color=000000&text_color=000000"
+         /> <img src="https://github-readme-stats.vercel.app/api/![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihyeongeun&layout=compact&theme=tokyonight)
            /> </div> 
     </div>
     
@@ -39,15 +39,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<details>
-	<summary>CRUD Case</summary>
-  	<div markdown="1">
-             <details>
-	       <summary>Create</summary>
-  	       <div markdown="1">
-                    <img src = https://www.notion.so/README-90456e44faab4013bf4520930090a7ab?pvs=4#36b54769ccf142e0937672f258208399>
-  	       </div>
-           </details>
-  	</div>
-</details>
