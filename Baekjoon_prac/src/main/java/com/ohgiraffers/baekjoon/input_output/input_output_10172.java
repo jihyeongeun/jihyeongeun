@@ -1,4 +1,4 @@
-package com.ohgiraffers.baekjoon;
+package com.ohgiraffers.baekjoon.input_output;
 
 public class input_output_10172 {
     public static void main(String[] args) {

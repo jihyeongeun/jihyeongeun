@@ -1,4 +1,4 @@
-package com.ohgiraffers.baekjoon;
+package com.ohgiraffers.baekjoon.input_output;
 
 import java.util.Scanner;
 
