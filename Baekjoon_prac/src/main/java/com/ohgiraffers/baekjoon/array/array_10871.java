@@ -12,12 +12,15 @@ public class array_10871 {
         StringTokenizer st = new StringTokenizer(br.readLine());
         int N = Integer.parseInt(st.nextToken());
         int X = Integer.parseInt(st.nextToken());
-
-        int[] A = new int[N];
-        for (int i = 0; i < A.length; i++) {
-            if (A[i] < X){
-                bw.write(A[i]);
+        int[] arrAList = new int[N];
+        String[] strArrN = br.readLine().split(" ");
+        for (int i = 0; i < N; i++) {
+            arrAList[i] = Integer.parseInt(strArrN[i]);
+            if (arrAList[i] < X) {
+                bw.write(arrAList[i] + " ");
             }
         }
+        bw.flush();
+        bw.close();
     }
 }
